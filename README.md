@@ -1,4 +1,4 @@
-# GPS-aided-Inertial-Navigation-System-Module (In Progress)
+# GPS-aided Inertial Navigation System Module (In Progress)
 
 * MCU: STM32F103C8T6
 * Communication Protocol: CAN
