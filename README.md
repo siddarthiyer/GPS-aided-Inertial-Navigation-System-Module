@@ -16,7 +16,7 @@ Default Module ID : 0x200 (Standard)
 
 | CMD_ID | Name | Sender  | Signals | Start byte | Signal Type | Bits |
 | ------ | -----| -------- | --------  | -------- | -------- |-------- |
-| `0x001`   | Heartbeat | Module  | Latitude, Longitude  | 0, 4  | EEE 754 Float, EEE 754 Float | 32, 32 |
+| `0x001`   | Heartbeat | Module  | Latitude, Longitude  | 0, 4  | IEEE 754 Float, IEEE 754 Float | 32, 32 |
 
 
 <hr>
